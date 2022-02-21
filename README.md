@@ -1,4 +1,4 @@
-# bytebank_v3
+# curso_alura_3
 
 A new Flutter project.
 
